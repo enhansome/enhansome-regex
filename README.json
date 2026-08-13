@@ -1,0 +1,175 @@
+{
+  "items": [
+    {
+      "description": "A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.\nInspired by awesome-dotnet, awesome-ruby, awesome-awesomeness and the whole trend on GitHub. Thank you Reddit, Hacker News and Stack Overflow for the help.\nSharing, suggestions and contributions are always welcome! Please take a look at the contribution guidelines and quality standard first. Thanks to all contributors, you're awesome and wouldn't be possible without you!",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "grex",
+          "description": "A command-line tool and library for generating regular expressions from user-provided test cases.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-27T17:22:36Z",
+            "owner": "pemistahl",
+            "repo": "grex",
+            "stars": 8167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "regexgen",
+          "description": "Generates regular expressions that match a set of strings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-02-15T03:01:52Z",
+            "owner": "devongovett",
+            "repo": "regexgen",
+            "stars": 3424
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegexGenerator",
+          "description": "A tool for generating regular expressions for text extraction (by @MaLeLabTs)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2020-08-02T00:12:00Z",
+            "owner": "MaLeLabTs",
+            "repo": "RegexGenerator",
+            "stars": 954
+          }
+        }
+      ],
+      "title": "Generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RE2",
+          "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-01-22T23:28:54Z",
+            "owner": "google",
+            "repo": "re2",
+            "stars": 9779
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperscan",
+          "description": "High-performance multiple Regex matching library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T04:48:51Z",
+            "owner": "intel",
+            "repo": "hyperscan",
+            "stars": 5457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Super Expressive",
+          "description": "Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-05T06:32:31Z",
+            "owner": "francisrstokes",
+            "repo": "super-expressive",
+            "stars": 4616
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go-Restructure",
+          "description": "Match regular expressions into struct fields in Go (by @alexflint). js C#",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-12-02T22:08:13Z",
+            "owner": "alexflint",
+            "repo": "go-restructure",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "js-regex",
+          "description": "Chainable API for constructing Regexes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2015-04-24T00:57:11Z",
+            "owner": "wyantb",
+            "repo": "js-regex",
+            "stars": 66
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Languages Regex Benchmark",
+          "description": "It's just a simple Regex benchmark of different programming languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dockerfile",
+            "last_commit": "2024-04-12T14:30:51Z",
+            "owner": "mariomka",
+            "repo": "regex-benchmark",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Regex Performance",
+          "description": "Performance comparison of regular expression engines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2022-10-14T23:51:45Z",
+            "owner": "rust-leipzig",
+            "repo": "regex-performance",
+            "stars": 123
+          }
+        }
+      ],
+      "title": "Benchmarks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:27:27.113Z",
+    "original_repository": "aloisdg/awesome-regex",
+    "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",
+    "enhanced_repository": "enhansome/enhansome-regex",
+    "enhanced_repository_description": null,
+    "title": "Awesome Regex with stars"
+  }
+}
