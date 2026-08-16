@@ -81,7 +81,7 @@
             "last_commit": "2026-08-13T06:39:48Z",
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5458
+            "stars": 5459
           }
         },
         {
@@ -95,7 +95,7 @@
             "last_commit": "2024-07-05T06:32:31Z",
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4615
+            "stars": 4614
           }
         },
         {
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T21:38:51.399Z",
+    "last_updated": "2026-08-16T21:37:35.671Z",
     "original_repository": "aloisdg/awesome-regex",
     "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",
     "enhanced_repository": "enhansome/enhansome-regex",
