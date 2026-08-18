@@ -67,7 +67,7 @@
             "last_commit": "2026-01-22T23:28:54Z",
             "owner": "google",
             "repo": "re2",
-            "stars": 9780
+            "stars": 9781
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T05:25:41Z",
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5460
+            "stars": 5461
           }
         },
         {
@@ -165,7 +165,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T21:44:05.594Z",
+    "last_updated": "2026-08-18T21:41:47.942Z",
     "original_repository": "aloisdg/awesome-regex",
     "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",
     "enhanced_repository": "enhansome/enhansome-regex",

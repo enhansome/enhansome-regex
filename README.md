@@ -7,15 +7,15 @@
 # Awesome Regex with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions) ⭐ 1,823 | 🐛 39 | 📅 2024-10-19
+[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions) ⭐ 1,824 | 🐛 39 | 📅 2024-10-19
 
 ## Introduction
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,559 | 🐛 138 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,140 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,608 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,561 | 🐛 139 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,141 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,823 | 🐛 39 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,824 | 🐛 39 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Contents
 
@@ -159,8 +159,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Libraries
 
-* [RE2](https://github.com/google/re2) ⭐ 9,780 | 🐛 62 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-* [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,460 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance multiple Regex matching library.
+* [RE2](https://github.com/google/re2) ⭐ 9,781 | 🐛 62 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,461 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance multiple Regex matching library.
 * [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,614 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.
 * [Go-Restructure](https://github.com/alexflint/go-restructure) ⭐ 594 | 🐛 6 | 🌐 Go | 📅 2024-12-02 - Match regular expressions into struct fields in Go (by @alexflint). [js](https://github.com/benjamingr/js-restructure) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-31 [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
 * [js-regex](https://github.com/wyantb/js-regex) ⭐ 66 | 🐛 5 | 🌐 JavaScript | 📅 2015-04-24 - Chainable API for constructing Regexes.
@@ -242,8 +242,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 496,968 | 🐛 102 | 📅 2026-06-30 and [here](https://github.com/jnv/lists) ⭐ 11,424 | 🐛 20 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 497,391 | 🐛 102 | 📅 2026-08-18 and [here](https://github.com/jnv/lists) ⭐ 11,422 | 🐛 21 | 📅 2026-03-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
