@@ -13,7 +13,7 @@
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,561 | 🐛 139 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,141 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,609 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,564 | 🐛 139 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,143 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,613 | 🐛 60 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,824 | 🐛 40 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
@@ -75,7 +75,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 * [grex](https://github.com/pemistahl/grex) ⭐ 8,170 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
 * [regexgen](https://github.com/devongovett/regexgen) ⭐ 3,424 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-15 - Generates regular expressions that match a set of strings.
-* [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) ⭐ 954 | 🐛 4 | 🌐 Java | 📅 2020-08-02 - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
+* [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) ⭐ 953 | 🐛 4 | 🌐 Java | 📅 2020-08-02 - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 * [Txt2Re](https://www.txt2re.com/index_php3.html) - Generate Regular expressions based on a string
 * [Regex Generator++](http://regex.inginf.units.it) - Automatic Generation of Text Extraction Patterns from Examples
 * [Gamon's numberic range generator](http://gamon.webfactional.com/regexnumericrangegenerator/) - Regex Numeric Range Generator, when you need to match an integer range.
@@ -159,9 +159,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Libraries
 
-* [RE2](https://github.com/google/re2) ⭐ 9,782 | 🐛 62 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-* [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,464 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance multiple Regex matching library.
-* [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,614 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.
+* [RE2](https://github.com/google/re2) ⭐ 9,783 | 🐛 62 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,466 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance multiple Regex matching library.
+* [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,612 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.
 * [Go-Restructure](https://github.com/alexflint/go-restructure) ⭐ 594 | 🐛 6 | 🌐 Go | 📅 2024-12-02 - Match regular expressions into struct fields in Go (by @alexflint). [js](https://github.com/benjamingr/js-restructure) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-31 [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
 * [js-regex](https://github.com/wyantb/js-regex) ⭐ 66 | 🐛 5 | 🌐 JavaScript | 📅 2015-04-24 - Chainable API for constructing Regexes.
 * [Tre](https://laurikari.net/tre/) - Free and portable approximate Regex matching library.
@@ -242,8 +242,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 497,802 | 🐛 102 | 📅 2026-08-18 and [here](https://github.com/jnv/lists) ⭐ 11,421 | 🐛 21 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 498,211 | 🐛 105 | 📅 2026-08-18 and [here](https://github.com/jnv/lists) ⭐ 11,424 | 🐛 21 | 📅 2026-03-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
