@@ -15,7 +15,7 @@
             "last_commit": "2026-02-27T17:22:36Z",
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8172
+            "stars": 8171
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-17T05:25:41Z",
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5469
+            "stars": 5473
           }
         },
         {
@@ -170,7 +170,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:42:45.027Z",
+    "last_updated": "2026-08-22T21:40:32.762Z",
     "original_repository": "aloisdg/awesome-regex",
     "original_repository_id": 36005882,
     "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",
