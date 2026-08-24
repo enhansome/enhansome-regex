@@ -15,7 +15,7 @@
             "last_commit": "2026-02-27T17:22:36Z",
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8171
+            "stars": 8172
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2024-02-15T03:01:52Z",
             "owner": "devongovett",
             "repo": "regexgen",
-            "stars": 3424
+            "stars": 3423
           }
         },
         {
@@ -66,7 +66,7 @@
             "last_commit": "2026-01-22T23:28:54Z",
             "owner": "google",
             "repo": "re2",
-            "stars": 9786
+            "stars": 9787
           }
         },
         {
@@ -137,6 +137,48 @@
       "items": [
         {
           "node_type": "item",
+          "title": "Regex Tuesday - Challenges",
+          "description": "Challenge list about Regex.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5643347,
+            "language": "JavaScript",
+            "last_commit": "2014-06-05T09:44:59Z",
+            "owner": "callumacrae",
+            "repo": "regex-tuesday",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "Exercises"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Python re(gex)?",
+          "description": "Sundeep Agarwal (2020)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165224631,
+            "language": "Python",
+            "last_commit": "2025-12-15T08:43:03Z",
+            "owner": "learnbyexample",
+            "repo": "py_regular_expressions",
+            "stars": 1829
+          }
+        }
+      ],
+      "title": "Books"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Languages Regex Benchmark",
           "description": "It's just a simple Regex benchmark of different programming languages.",
           "children": [],
@@ -170,7 +212,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T21:39:43.776Z",
+    "last_updated": "2026-08-24T14:07:48.379Z",
     "original_repository": "aloisdg/awesome-regex",
     "original_repository_id": 36005882,
     "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",

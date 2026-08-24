@@ -13,7 +13,7 @@
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,574 | 🐛 139 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,144 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,619 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,574 | 🐛 139 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,144 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,620 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,825 | 🐛 40 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
@@ -73,8 +73,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Generators
 
-* [grex](https://github.com/pemistahl/grex) ⭐ 8,171 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
-* [regexgen](https://github.com/devongovett/regexgen) ⭐ 3,424 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-15 - Generates regular expressions that match a set of strings.
+* [grex](https://github.com/pemistahl/grex) ⭐ 8,172 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
+* [regexgen](https://github.com/devongovett/regexgen) ⭐ 3,423 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-15 - Generates regular expressions that match a set of strings.
 * [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) ⭐ 953 | 🐛 4 | 🌐 Java | 📅 2020-08-02 - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 * [Txt2Re](https://www.txt2re.com/index_php3.html) - Generate Regular expressions based on a string
 * [Regex Generator++](http://regex.inginf.units.it) - Automatic Generation of Text Extraction Patterns from Examples
@@ -159,7 +159,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Libraries
 
-* [RE2](https://github.com/google/re2) ⭐ 9,786 | 🐛 62 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [RE2](https://github.com/google/re2) ⭐ 9,787 | 🐛 62 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 * [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,474 | 🐛 200 | 🌐 C++ | 📅 2026-08-17 - High-performance multiple Regex matching library.
 * [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,612 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.
 * [Go-Restructure](https://github.com/alexflint/go-restructure) ⭐ 594 | 🐛 6 | 🌐 Go | 📅 2024-12-02 - Match regular expressions into struct fields in Go (by @alexflint). [js](https://github.com/benjamingr/js-restructure) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-31 [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
@@ -181,9 +181,9 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Exercises
 
+* [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) ⭐ 89 | 🐛 4 | 🌐 JavaScript | 📅 2014-06-05 - Challenge list about Regex.
 * [HackerRank Regex Challenges](https://www.hackerrank.com/domains/regex/re-introduction) - Regex challenges with varying levels of difficulty.
 * [Redoku](http://padolsey.github.io/redoku/) - Little Regex Sudoku/Crossword thing (by @padolsey).
-* [Regex Tuesday - Challenges](https://github.com/callumacrae/regex-tuesday) ⭐ 89 | 🐛 4 | 🌐 JavaScript | 📅 2014-06-05 - Challenge list about Regex.
 * [Regex Crossword](http://regexcrossword.com) - A crossword puzzle game using regular expressions.
 * [RegexOne](http://regexone.com) - Learn regular expressions with simple, interactive examples.
 * [Regex Exercises](https://regex.sketchengine.co.uk/) - Regexp exercises.
@@ -212,6 +212,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Books
 
+* [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) ⭐ 1,829 | 🐛 0 | 🌐 Python | 📅 2025-12-15 - Sundeep Agarwal (2020)
 * [Patterns, Automata, and Regular Expressions](http://infolab.stanford.edu/~ullman/focs/ch10.pdf) - Al Aho and Jeff Ullman (1992) (*chapter 10 of [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)*)
 * [Beginning Regular Expressions](http://shop.oreilly.com/product/9780764574894.do) - Andrew Watt (2005)
 * [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey E.F. Friedl (2006)
@@ -221,7 +222,6 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 * [Mastering Python Regular Expressions](http://shop.oreilly.com/product/9781783283156.do) - Felix Lopez & Victor Romero (2014)
 * [JavaScript Regular Expressions](http://shop.oreilly.com/product/9781783282258.do) - Loiane Groner & Gabriel Manricks (2015)
 * [Regex - the complete tutorial](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
-* [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) ⭐ 1,829 | 🐛 0 | 🌐 Python | 📅 2025-12-15 - Sundeep Agarwal (2020)
 
 ## Benchmarks
 
@@ -242,8 +242,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,288 | 🐛 106 | 📅 2026-08-21 and [here](https://github.com/jnv/lists) ⭐ 11,434 | 🐛 21 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21 and [here](https://github.com/jnv/lists) ⭐ 11,437 | 🐛 21 | 📅 2026-03-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
