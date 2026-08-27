@@ -15,7 +15,7 @@
             "last_commit": "2026-02-27T17:22:36Z",
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8173
+            "stars": 8174
           }
         },
         {
@@ -212,9 +212,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T00:51:14.178Z",
-    "original_repository": "aloisdg/awesome-regex",
-    "original_repository_id": 36005882,
+    "last_updated": "2026-08-27T12:03:06.200Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 36005882,
+      "language": null,
+      "last_commit": "2024-10-19T23:28:23Z",
+      "owner": "aloisdg",
+      "repo": "awesome-regex",
+      "stars": 1827
+    },
     "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",
     "enhanced_repository": "enhansome/enhansome-regex",
     "enhanced_repository_description": null,
