@@ -15,8 +15,9 @@
             "last_commit": "2026-02-27T17:22:36Z",
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8174
-          }
+            "stars": 8175
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "devongovett",
             "repo": "regexgen",
             "stars": 3422
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "MaLeLabTs",
             "repo": "RegexGenerator",
             "stars": 953
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         }
       ],
       "title": "Generators"
@@ -67,7 +70,8 @@
             "owner": "google",
             "repo": "re2",
             "stars": 9785
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -82,7 +86,8 @@
             "owner": "intel",
             "repo": "hyperscan",
             "stars": 5475
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "francisrstokes",
             "repo": "super-expressive",
             "stars": 4612
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -112,7 +118,8 @@
             "owner": "alexflint",
             "repo": "go-restructure",
             "stars": 594
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -127,7 +134,8 @@
             "owner": "wyantb",
             "repo": "js-regex",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         }
       ],
       "title": "Libraries"
@@ -148,7 +156,8 @@
             "owner": "callumacrae",
             "repo": "regex-tuesday",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         }
       ],
       "title": "Exercises"
@@ -169,7 +178,8 @@
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
             "stars": 1829
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         }
       ],
       "title": "Books"
@@ -190,7 +200,8 @@
             "owner": "mariomka",
             "repo": "regex-benchmark",
             "stars": 334
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         },
         {
           "node_type": "item",
@@ -205,14 +216,15 @@
             "owner": "rust-leipzig",
             "repo": "regex-performance",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T05:28:00.820Z"
         }
       ],
       "title": "Benchmarks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:03:06.200Z",
+    "last_updated": "2026-08-28T05:28:00.820Z",
     "original_repository_info": {
       "archived": false,
       "id": 36005882,
