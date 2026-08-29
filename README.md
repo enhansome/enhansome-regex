@@ -13,7 +13,7 @@
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,578 | 🐛 140 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,147 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,632 | 🐛 62 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,579 | 🐛 144 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,148 | 🐛 8 | 📅 2026-08-13, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,634 | 🐛 61 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
 
 Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,827 | 🐛 42 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
@@ -73,7 +73,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Generators
 
-* [grex](https://github.com/pemistahl/grex) ⭐ 8,175 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
+* [grex](https://github.com/pemistahl/grex) ⭐ 8,176 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
 * [regexgen](https://github.com/devongovett/regexgen) ⭐ 3,422 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-15 - Generates regular expressions that match a set of strings.
 * [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) ⭐ 953 | 🐛 4 | 🌐 Java | 📅 2020-08-02 - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 * [Txt2Re](https://www.txt2re.com/index_php3.html) - Generate Regular expressions based on a string
@@ -242,8 +242,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,606 | 🐛 105 | 📅 2026-08-21 and [here](https://github.com/jnv/lists) ⭐ 11,440 | 🐛 22 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,881 | 🐛 105 | 📅 2026-08-21 and [here](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
