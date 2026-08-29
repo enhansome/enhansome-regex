@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+            "homepage": "https://pemistahl.github.io/grex-js/",
             "id": 213043312,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-02-27T17:22:36Z",
+            "open_issues": 18,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8176
+            "stars": 8176,
+            "topics": [
+              "cli",
+              "command-line-tool",
+              "python",
+              "python-library",
+              "regex",
+              "regex-pattern",
+              "regexp",
+              "regular-expression",
+              "regular-expressions",
+              "rust",
+              "rust-cli",
+              "rust-crate",
+              "rust-library",
+              "terminal",
+              "tool"
+            ]
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -26,12 +47,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate regular expressions that match a set of strings",
+            "homepage": "https://runkit.com/npm/regexgen",
             "id": 76917071,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-02-15T03:01:52Z",
+            "open_issues": 15,
             "owner": "devongovett",
             "repo": "regexgen",
-            "stars": 3422
+            "stars": 3422,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This project contains the source code of a tool for generating regular expressions for text extraction:  1. automatically, 2. based only on examples of the desired behavior, 3. without any external hint about how the target regex should look like",
+            "homepage": null,
             "id": 34732220,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2020-08-02T00:12:00Z",
+            "open_issues": 4,
             "owner": "MaLeLabTs",
             "repo": "RegexGenerator",
-            "stars": 953
+            "stars": 953,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         }
@@ -64,12 +95,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.",
+            "homepage": null,
             "id": 23086893,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-01-22T23:28:54Z",
+            "open_issues": 64,
             "owner": "google",
             "repo": "re2",
-            "stars": 9785
+            "stars": 9785,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -80,12 +116,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance regular expression matching library",
+            "homepage": "https://www.hyperscan.io",
             "id": 42895929,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T04:34:51Z",
+            "open_issues": 200,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5475
+            "stars": 5475,
+            "topics": [
+              "regex"
+            ]
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -96,12 +139,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦜 Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language",
+            "homepage": null,
             "id": 279702593,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-05T06:32:31Z",
+            "open_issues": 10,
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4612
+            "stars": 4612,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -112,12 +160,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Match regular expressions into struct fields",
+            "homepage": null,
             "id": 50303427,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2024-12-02T22:08:13Z",
+            "open_issues": 6,
             "owner": "alexflint",
             "repo": "go-restructure",
-            "stars": 594
+            "stars": 594,
+            "topics": [
+              "golang",
+              "regular-expression"
+            ]
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -128,12 +184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A chainable API for constructing RegExps, written in Javascript",
+            "homepage": null,
             "id": 12025074,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-04-24T00:57:11Z",
+            "open_issues": 5,
             "owner": "wyantb",
             "repo": "js-regex",
-            "stars": 66
+            "stars": 66,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         }
@@ -150,12 +211,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":calendar: The repo for the regex tuesday challenges",
+            "homepage": "http://callumacrae.github.com/regex-tuesday/",
             "id": 5643347,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2014-06-05T09:44:59Z",
+            "open_issues": 4,
             "owner": "callumacrae",
             "repo": "regex-tuesday",
-            "stars": 89
+            "stars": 89,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         }
@@ -172,12 +238,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn Python Regular Expressions step by step from beginner to advanced levels",
+            "homepage": "https://learnbyexample.github.io/py_regular_expressions/",
             "id": 165224631,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-15T08:43:03Z",
+            "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1829
+            "stars": 1829,
+            "topics": [
+              "ebook",
+              "exercises",
+              "learning-by-doing",
+              "python",
+              "regex",
+              "regular-expressions"
+            ]
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         }
@@ -194,12 +272,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "It's just a simple regex benchmark of different programming languages.",
+            "homepage": null,
             "id": 103036720,
             "language": "Dockerfile",
+            "license": "MIT",
             "last_commit": "2024-04-12T14:30:51Z",
+            "open_issues": 12,
             "owner": "mariomka",
             "repo": "regex-benchmark",
-            "stars": 334
+            "stars": 334,
+            "topics": [
+              "bench",
+              "benchmark",
+              "languages",
+              "regex",
+              "regexp"
+            ]
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         },
@@ -210,12 +299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance comparison of regular expression engines.",
+            "homepage": null,
             "id": 84554872,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-14T23:51:45Z",
+            "open_issues": 5,
             "owner": "rust-leipzig",
             "repo": "regex-performance",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
         }
@@ -224,15 +318,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:03.355Z",
+    "last_updated": "2026-08-29T04:29:28.933Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
+      "homepage": null,
       "id": 36005882,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2024-10-19T23:28:23Z",
+      "open_issues": 42,
       "owner": "aloisdg",
       "repo": "awesome-regex",
-      "stars": 1827
+      "stars": 1827,
+      "topics": [
+        "awesome",
+        "awesome-list"
+      ]
     },
     "original_repository_sha": "c308fec2bc9a8ca8ef1056a36292e808e878b213",
     "enhanced_repository": "enhansome/enhansome-regex",

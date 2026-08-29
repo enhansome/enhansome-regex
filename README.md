@@ -242,7 +242,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,881 | 🐛 105 | 📅 2026-08-21 and [here](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 and [here](https://github.com/jnv/lists) ⭐ 11,441 | 🐛 22 | 📅 2026-03-23.
 
 ***
 
