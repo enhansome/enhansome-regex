@@ -104,7 +104,7 @@
             "open_issues": 64,
             "owner": "google",
             "repo": "re2",
-            "stars": 9787,
+            "stars": 9788,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -125,7 +125,7 @@
             "open_issues": 200,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5475,
+            "stars": 5476,
             "topics": [
               "regex"
             ]
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T23:24:06.680Z",
+    "last_updated": "2026-08-30T23:34:49.343Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
@@ -327,7 +327,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-10-19T23:28:23Z",
-      "open_issues": 43,
+      "open_issues": 44,
       "owner": "aloisdg",
       "repo": "awesome-regex",
       "stars": 1827,
