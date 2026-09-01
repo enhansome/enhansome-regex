@@ -56,7 +56,7 @@
             "open_issues": 15,
             "owner": "devongovett",
             "repo": "regexgen",
-            "stars": 3422,
+            "stars": 3421,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -125,7 +125,7 @@
             "open_issues": 200,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5476,
+            "stars": 5477,
             "topics": [
               "regex"
             ]
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T00:39:43.475Z",
+    "last_updated": "2026-09-01T23:21:33.098Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
