@@ -77,7 +77,7 @@
             "open_issues": 4,
             "owner": "MaLeLabTs",
             "repo": "RegexGenerator",
-            "stars": 953,
+            "stars": 954,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -104,7 +104,7 @@
             "open_issues": 63,
             "owner": "google",
             "repo": "re2",
-            "stars": 9789,
+            "stars": 9791,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:21:33.098Z",
+    "last_updated": "2026-09-02T23:21:49.749Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
