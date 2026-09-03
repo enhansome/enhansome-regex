@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8178,
+            "stars": 8179,
             "topics": [
               "cli",
               "command-line-tool",
@@ -104,7 +104,7 @@
             "open_issues": 63,
             "owner": "google",
             "repo": "re2",
-            "stars": 9791,
+            "stars": 9792,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1829,
+            "stars": 1828,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T23:21:49.749Z",
+    "last_updated": "2026-09-03T23:19:27.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
