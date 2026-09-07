@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8184,
+            "stars": 8182,
             "topics": [
               "cli",
               "command-line-tool",
@@ -101,10 +101,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-01-22T23:28:54Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "google",
             "repo": "re2",
-            "stars": 9795,
+            "stars": 9799,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -121,11 +121,11 @@
             "id": 42895929,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T04:34:51Z",
-            "open_issues": 200,
+            "last_commit": "2026-09-07T11:08:34Z",
+            "open_issues": 201,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5479,
+            "stars": 5482,
             "topics": [
               "regex"
             ]
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1828,
+            "stars": 1829,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T22:55:27.526Z",
+    "last_updated": "2026-09-07T23:33:55.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
