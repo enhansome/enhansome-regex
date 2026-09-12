@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8183,
+            "stars": 8184,
             "topics": [
               "cli",
               "command-line-tool",
@@ -101,7 +101,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-01-22T23:28:54Z",
-            "open_issues": 68,
+            "open_issues": 66,
             "owner": "google",
             "repo": "re2",
             "stars": 9796,
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T23:19:45.054Z",
+    "last_updated": "2026-09-12T23:04:48.231Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
