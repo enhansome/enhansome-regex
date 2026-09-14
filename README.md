@@ -7,15 +7,15 @@
 # Awesome Regex with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions) ⭐ 1,828 | 🐛 46 | 📅 2024-10-19
+[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions) ⭐ 1,829 | 🐛 47 | 📅 2024-10-19
 
 ## Introduction
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,599 | 🐛 152 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,154 | 🐛 9 | 📅 2026-09-08, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,668 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,600 | 🐛 153 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,155 | 🐛 9 | 📅 2026-09-08, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,671 | 🐛 65 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,828 | 🐛 46 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,829 | 🐛 47 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Contents
 
@@ -73,7 +73,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Generators
 
-* [grex](https://github.com/pemistahl/grex) ⭐ 8,184 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
+* [grex](https://github.com/pemistahl/grex) ⭐ 8,185 | 🐛 18 | 🌐 Rust | 📅 2026-02-27 - A command-line tool and library for generating regular expressions from user-provided test cases.
 * [regexgen](https://github.com/devongovett/regexgen) ⭐ 3,421 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-15 - Generates regular expressions that match a set of strings.
 * [RegexGenerator](https://github.com/MaLeLabTs/RegexGenerator) ⭐ 953 | 🐛 4 | 🌐 Java | 📅 2020-08-02 - A tool for generating regular expressions for text extraction (by @MaLeLabTs)
 * [Txt2Re](https://www.txt2re.com/index_php3.html) - Generate Regular expressions based on a string
@@ -242,8 +242,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 505,758 | 🐛 106 | 📅 2026-09-02 and [here](https://github.com/jnv/lists) ⭐ 11,476 | 🐛 27 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 506,064 | 🐛 106 | 📅 2026-09-02 and [here](https://github.com/jnv/lists) ⭐ 11,480 | 🐛 27 | 📅 2026-03-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._
