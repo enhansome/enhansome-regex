@@ -19,7 +19,7 @@
             "open_issues": 18,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8189,
+            "stars": 8190,
             "topics": [
               "cli",
               "command-line-tool",
@@ -56,7 +56,7 @@
             "open_issues": 15,
             "owner": "devongovett",
             "repo": "regexgen",
-            "stars": 3421,
+            "stars": 3422,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -101,10 +101,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-01-22T23:28:54Z",
-            "open_issues": 66,
+            "open_issues": 68,
             "owner": "google",
             "repo": "re2",
-            "stars": 9799,
+            "stars": 9801,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -125,7 +125,7 @@
             "open_issues": 201,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5491,
+            "stars": 5492,
             "topics": [
               "regex"
             ]
@@ -148,7 +148,7 @@
             "open_issues": 10,
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4610,
+            "stars": 4609,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T23:34:08.984Z",
+    "last_updated": "2026-09-18T23:21:04.560Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
@@ -327,7 +327,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2024-10-19T23:28:23Z",
-      "open_issues": 47,
+      "open_issues": 46,
       "owner": "aloisdg",
       "repo": "awesome-regex",
       "stars": 1829,
