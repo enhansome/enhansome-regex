@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-02-27T17:22:36Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8196,
+            "stars": 8197,
             "topics": [
               "cli",
               "command-line-tool",
@@ -104,7 +104,7 @@
             "open_issues": 68,
             "owner": "google",
             "repo": "re2",
-            "stars": 9802,
+            "stars": 9803,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1827,
+            "stars": 1829,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:10:17.925Z",
+    "last_updated": "2026-09-22T23:37:06.028Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
