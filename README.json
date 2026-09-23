@@ -101,10 +101,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-01-22T23:28:54Z",
-            "open_issues": 68,
+            "open_issues": 69,
             "owner": "google",
             "repo": "re2",
-            "stars": 9803,
+            "stars": 9804,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -121,8 +121,8 @@
             "id": 42895929,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T06:29:09Z",
-            "open_issues": 201,
+            "last_commit": "2026-09-23T19:31:23Z",
+            "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
             "stars": 5492,
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:37:06.028Z",
+    "last_updated": "2026-09-23T23:46:09.526Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
