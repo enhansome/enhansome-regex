@@ -19,7 +19,7 @@
             "open_issues": 20,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8202,
+            "stars": 8204,
             "topics": [
               "cli",
               "command-line-tool",
@@ -53,7 +53,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2024-02-15T03:01:52Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "devongovett",
             "repo": "regexgen",
             "stars": 3422,
@@ -101,10 +101,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-01-22T23:28:54Z",
-            "open_issues": 69,
+            "open_issues": 70,
             "owner": "google",
             "repo": "re2",
-            "stars": 9802,
+            "stars": 9804,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T23:50:14.474Z",
+    "last_updated": "2026-09-29T01:02:26.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
