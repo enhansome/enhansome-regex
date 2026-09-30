@@ -16,10 +16,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-02-27T17:22:36Z",
-            "open_issues": 20,
+            "open_issues": 22,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8204,
+            "stars": 8208,
             "topics": [
               "cli",
               "command-line-tool",
@@ -104,7 +104,7 @@
             "open_issues": 70,
             "owner": "google",
             "repo": "re2",
-            "stars": 9804,
+            "stars": 9805,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -121,7 +121,7 @@
             "id": 42895929,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T06:19:21Z",
+            "last_commit": "2026-09-29T08:24:45Z",
             "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
@@ -169,7 +169,7 @@
             "open_issues": 6,
             "owner": "alexflint",
             "repo": "go-restructure",
-            "stars": 593,
+            "stars": 592,
             "topics": [
               "golang",
               "regular-expression"
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:02:26.616Z",
+    "last_updated": "2026-09-30T00:33:00.117Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
