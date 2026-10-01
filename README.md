@@ -7,15 +7,15 @@
 # Awesome Regex with stars
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions) ⭐ 1,831 | 🐛 46 | 📅 2024-10-19
+[![Main workflow](https://github.com/aloisdg/awesome-regex/workflows/Main%20workflow/badge.svg)](https://github.com/aloisdg/awesome-regex/actions) ⭐ 1,830 | 🐛 46 | 📅 2024-10-19
 
 ## Introduction
 
 A curated collection of awesome Regex libraries, tools, frameworks and software. The goal is to build a categorized community-driven collection of very well-known resources.
 
-Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,632 | 🐛 163 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,162 | 🐛 9 | 📅 2026-09-22, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,695 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
+Inspired by [awesome-dotnet](https://github.com/quozd/awesome-dotnet) ⭐ 21,635 | 🐛 163 | 📅 2026-03-26, [awesome-ruby](https://github.com/markets/awesome-ruby) ⭐ 14,162 | 🐛 9 | 📅 2026-09-22, [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) ⭐ 33,696 | 🐛 66 | 🌐 Ruby | 📅 2024-06-02 and the whole `awesome-*` trend on GitHub. Thank you [Reddit](http://www.reddit.com/r/regex), [Hacker News](https://news.ycombinator.com/item?id=9581225) and [Stack Overflow](http://stackoverflow.com/tags/regex/info) for the help.
 
-Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,831 | 🐛 46 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
+Sharing, suggestions and contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/aloisdg/awesome-regex/blob/master/CONTRIBUTING.md) ⭐ 1,830 | 🐛 46 | 📅 2024-10-19 first. Thanks to all contributors, you're awesome and wouldn't be possible without you!
 
 ## Contents
 
@@ -159,8 +159,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Libraries
 
-* [RE2](https://github.com/google/re2) ⭐ 9,805 | 🐛 70 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
-* [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,493 | 🐛 202 | 🌐 C++ | 📅 2026-09-29 - High-performance multiple Regex matching library.
+* [RE2](https://github.com/google/re2) ⭐ 9,807 | 🐛 71 | 🌐 C++ | 📅 2026-01-22 - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
+* [Hyperscan](https://github.com/01org/hyperscan) ⭐ 5,494 | 🐛 202 | 🌐 C++ | 📅 2026-09-29 - High-performance multiple Regex matching library.
 * [Super Expressive](https://github.com/francisrstokes/super-expressive) ⭐ 4,609 | 🐛 10 | 🌐 JavaScript | 📅 2024-07-05 - Super Expressive is a JavaScript library that allows you to build regular expressions in natural language.
 * [Go-Restructure](https://github.com/alexflint/go-restructure) ⭐ 592 | 🐛 6 | 🌐 Go | 📅 2024-12-02 - Match regular expressions into struct fields in Go (by @alexflint). [js](https://github.com/benjamingr/js-restructure) ⭐ 74 | 🐛 0 | 🌐 JavaScript | 📅 2016-01-31 [C#](https://gist.github.com/benjamingr/4de21494b3e76088e5f7)
 * [js-regex](https://github.com/wyantb/js-regex) ⭐ 66 | 🐛 5 | 🌐 JavaScript | 📅 2015-04-24 - Chainable API for constructing Regexes.
@@ -212,7 +212,7 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 ## Books
 
-* [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) ⭐ 1,830 | 🐛 0 | 🌐 Python | 📅 2025-12-15 - Sundeep Agarwal (2020)
+* [Python re(gex)?](https://github.com/learnbyexample/py_regular_expressions) ⭐ 1,829 | 🐛 0 | 🌐 Python | 📅 2025-12-15 - Sundeep Agarwal (2020)
 * [Patterns, Automata, and Regular Expressions](http://infolab.stanford.edu/~ullman/focs/ch10.pdf) - Al Aho and Jeff Ullman (1992) (*chapter 10 of [Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)*)
 * [Beginning Regular Expressions](http://shop.oreilly.com/product/9780764574894.do) - Andrew Watt (2005)
 * [Mastering Regular Expressions](http://shop.oreilly.com/product/9780596528126.do) - Jeffrey E.F. Friedl (2006)
@@ -242,8 +242,8 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 
 # Other awesome lists
 
-Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 512,450 | 🐛 106 | 📅 2026-09-02 and [here](https://github.com/jnv/lists) ⭐ 11,518 | 🐛 30 | 📅 2026-03-23.
+Other amazingly awesome lists can be found at the [official awesome list](https://github.com/sindresorhus/awesome) ⭐ 512,886 | 🐛 106 | 📅 2026-09-02 and [here](https://github.com/jnv/lists) ⭐ 11,519 | 🐛 32 | 📅 2026-03-23.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
