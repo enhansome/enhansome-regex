@@ -104,7 +104,7 @@
             "open_issues": 71,
             "owner": "google",
             "repo": "re2",
-            "stars": 9807,
+            "stars": 9809,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -125,7 +125,7 @@
             "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5494,
+            "stars": 5495,
             "topics": [
               "regex"
             ]
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1829,
+            "stars": 1830,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T00:35:56.802Z",
+    "last_updated": "2026-10-02T00:52:19.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
