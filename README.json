@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8220,
+            "stars": 8219,
             "topics": [
               "cli",
               "command-line-tool",
@@ -56,7 +56,7 @@
             "open_issues": 15,
             "owner": "devongovett",
             "repo": "regexgen",
-            "stars": 3422,
+            "stars": 3424,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -104,7 +104,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "re2",
-            "stars": 9820,
+            "stars": 9822,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -125,7 +125,7 @@
             "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5499,
+            "stars": 5501,
             "topics": [
               "regex"
             ]
@@ -148,7 +148,7 @@
             "open_issues": 10,
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4609,
+            "stars": 4610,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1831,
+            "stars": 1832,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:36:22.680Z",
+    "last_updated": "2026-10-14T00:21:10.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
@@ -330,7 +330,7 @@
       "open_issues": 48,
       "owner": "aloisdg",
       "repo": "awesome-regex",
-      "stars": 1833,
+      "stars": 1834,
       "topics": [
         "awesome",
         "awesome-list"
