@@ -104,7 +104,7 @@
             "open_issues": 73,
             "owner": "google",
             "repo": "re2",
-            "stars": 9823,
+            "stars": 9824,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -148,7 +148,7 @@
             "open_issues": 10,
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4610,
+            "stars": 4609,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T23:58:10.584Z",
+    "last_updated": "2026-10-15T23:42:10.058Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
