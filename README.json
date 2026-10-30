@@ -19,7 +19,7 @@
             "open_issues": 23,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8292,
+            "stars": 8293,
             "topics": [
               "cli",
               "command-line-tool",
@@ -56,7 +56,7 @@
             "open_issues": 15,
             "owner": "devongovett",
             "repo": "regexgen",
-            "stars": 3424,
+            "stars": 3423,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -104,7 +104,7 @@
             "open_issues": 66,
             "owner": "google",
             "repo": "re2",
-            "stars": 9836,
+            "stars": 9839,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -121,11 +121,11 @@
             "id": 42895929,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T09:10:44Z",
-            "open_issues": 201,
+            "last_commit": "2026-10-29T06:19:42Z",
+            "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5507,
+            "stars": 5509,
             "topics": [
               "regex"
             ]
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:01:56.736Z",
+    "last_updated": "2026-10-30T01:07:11.684Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
