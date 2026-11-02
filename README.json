@@ -125,7 +125,7 @@
             "open_issues": 201,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5512,
+            "stars": 5513,
             "topics": [
               "regex"
             ]
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T00:11:01.003Z",
+    "last_updated": "2026-11-02T00:50:06.731Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
