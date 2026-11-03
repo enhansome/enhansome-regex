@@ -148,7 +148,7 @@
             "open_issues": 10,
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4608,
+            "stars": 4606,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T00:50:06.731Z",
+    "last_updated": "2026-11-03T02:56:43.968Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
@@ -330,7 +330,7 @@
       "open_issues": 47,
       "owner": "aloisdg",
       "repo": "awesome-regex",
-      "stars": 1834,
+      "stars": 1835,
       "topics": [
         "awesome",
         "awesome-list"
