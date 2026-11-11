@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8302,
+            "stars": 8303,
             "topics": [
               "cli",
               "command-line-tool",
@@ -104,7 +104,7 @@
             "open_issues": 67,
             "owner": "google",
             "repo": "re2",
-            "stars": 9846,
+            "stars": 9848,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -169,7 +169,7 @@
             "open_issues": 6,
             "owner": "alexflint",
             "repo": "go-restructure",
-            "stars": 590,
+            "stars": 591,
             "topics": [
               "golang",
               "regular-expression"
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:37:53.708Z",
+    "last_updated": "2026-11-11T01:17:08.295Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
