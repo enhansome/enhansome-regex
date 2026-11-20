@@ -77,7 +77,7 @@
             "open_issues": 4,
             "owner": "MaLeLabTs",
             "repo": "RegexGenerator",
-            "stars": 954,
+            "stars": 953,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -101,10 +101,10 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T18:28:05Z",
-            "open_issues": 72,
+            "open_issues": 78,
             "owner": "google",
             "repo": "re2",
-            "stars": 9854,
+            "stars": 9852,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -125,7 +125,7 @@
             "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5522,
+            "stars": 5521,
             "topics": [
               "regex"
             ]
@@ -148,7 +148,7 @@
             "open_issues": 10,
             "owner": "francisrstokes",
             "repo": "super-expressive",
-            "stars": 4605,
+            "stars": 4604,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -169,7 +169,7 @@
             "open_issues": 6,
             "owner": "alexflint",
             "repo": "go-restructure",
-            "stars": 591,
+            "stars": 590,
             "topics": [
               "golang",
               "regular-expression"
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1835,
+            "stars": 1834,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T02:38:25.636Z",
+    "last_updated": "2026-11-20T02:23:05.065Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
