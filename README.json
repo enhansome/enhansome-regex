@@ -104,7 +104,7 @@
             "open_issues": 82,
             "owner": "google",
             "repo": "re2",
-            "stars": 9852,
+            "stars": 9854,
             "topics": []
           },
           "first_seen": "2026-08-28T05:28:00.820Z"
@@ -247,7 +247,7 @@
             "open_issues": 0,
             "owner": "learnbyexample",
             "repo": "py_regular_expressions",
-            "stars": 1834,
+            "stars": 1835,
             "topics": [
               "ebook",
               "exercises",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T01:48:33.114Z",
+    "last_updated": "2026-11-24T05:21:01.765Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
@@ -330,7 +330,7 @@
       "open_issues": 49,
       "owner": "aloisdg",
       "repo": "awesome-regex",
-      "stars": 1837,
+      "stars": 1836,
       "topics": [
         "awesome",
         "awesome-list"
