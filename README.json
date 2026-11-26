@@ -101,7 +101,7 @@
             "language": "C++",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-02T18:28:05Z",
-            "open_issues": 79,
+            "open_issues": 80,
             "owner": "google",
             "repo": "re2",
             "stars": 9856,
@@ -125,7 +125,7 @@
             "open_issues": 202,
             "owner": "intel",
             "repo": "hyperscan",
-            "stars": 5521,
+            "stars": 5522,
             "topics": [
               "regex"
             ]
@@ -166,7 +166,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2024-12-02T22:08:13Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "alexflint",
             "repo": "go-restructure",
             "stars": 590,
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:17:32.805Z",
+    "last_updated": "2026-11-26T03:37:44.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
