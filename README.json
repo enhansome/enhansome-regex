@@ -19,7 +19,7 @@
             "open_issues": 24,
             "owner": "pemistahl",
             "repo": "grex",
-            "stars": 8316,
+            "stars": 8317,
             "topics": [
               "cli",
               "command-line-tool",
@@ -318,7 +318,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:37:44.912Z",
+    "last_updated": "2026-11-27T03:39:54.597Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated collection of awesome Regex libraries, tools, frameworks and software",
@@ -330,7 +330,7 @@
       "open_issues": 50,
       "owner": "aloisdg",
       "repo": "awesome-regex",
-      "stars": 1836,
+      "stars": 1835,
       "topics": [
         "awesome",
         "awesome-list"
